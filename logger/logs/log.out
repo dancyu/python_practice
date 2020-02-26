@@ -1,0 +1,14 @@
+2020-02-26 10:34:12,935 - root - INFO - this is root message
+2020-02-26 10:34:12,936 - logsample - DEBUG - This is a debug message
+2020-02-26 10:34:12,936 - logsample - INFO - This is an info message
+2020-02-26 10:34:12,936 - logsample - WARNING - This is a warning message
+2020-02-26 10:34:12,936 - logsample - ERROR - This is an error message
+2020-02-26 10:34:12,936 - logsample - CRITICAL - This is a critical error message
+2020-02-26 10:34:12,937 - logsamplesub - INFO - b
+2020-02-26 10:35:21,554 - uselogger - DEBUG - this is a debug message
+2020-02-26 10:35:21,555 - uselogger - INFO - this is a info message
+2020-02-26 10:35:21,555 - uselogger - ERROR - this is a error message
+2020-02-26 10:35:21,555 - uselogger - ERROR - 1 print number
+2020-02-26 10:35:21,557 - Subclass - DEBUG - this is a debug message
+2020-02-26 10:35:21,557 - Subclass - INFO - this is a info message
+2020-02-26 10:35:21,557 - Subclass - ERROR - this is a error message
